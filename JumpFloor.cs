@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class JumpFloor : MonoBehaviour
 {
-    public float jumpForce = 8f;
+    public float jumpForce = 8f;//どれくらいの力で飛ばすか
 
     void OnCollisionEnter(Collision collision)
     {
