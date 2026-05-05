@@ -7,7 +7,7 @@ public class JumpFloor : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.name == "Ball")
+        if (collision.gameObject.name == "Ball")//飛ばしたいオブジェクト名を入れる(今回なら"Ball"というオブジェクトにのみ反応)
         {
             Rigidbody rb = collision.gameObject.GetComponent<Rigidbody>();
 
