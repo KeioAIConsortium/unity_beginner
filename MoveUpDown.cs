@@ -1,3 +1,4 @@
+//上下に移動
 using UnityEngine;
 
 public class MoveUpDown : MonoBehaviour
