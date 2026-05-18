@@ -1,3 +1,4 @@
+//左右に移動
 using UnityEngine;
 
 public class MoveLeftRight : MonoBehaviour
