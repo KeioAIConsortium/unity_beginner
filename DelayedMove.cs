@@ -1,4 +1,4 @@
-//③時間差で動く装置
+//時間差で動く装置
 using UnityEngine;
 
 public class DelayedMove : MonoBehaviour
