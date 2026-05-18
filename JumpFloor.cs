@@ -1,4 +1,4 @@
-//②Floor（ジャンプ台）でBallに力を加える
+//Floor（ジャンプ台）でBallに力を加える
 using UnityEngine;
 
 public class JumpFloor : MonoBehaviour
