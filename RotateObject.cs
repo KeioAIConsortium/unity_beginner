@@ -1,3 +1,4 @@
+//回転
 using UnityEngine;
 
 public class RotateObject : MonoBehaviour
