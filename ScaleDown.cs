@@ -1,3 +1,4 @@
+//だんだん大きくなる
 using UnityEngine;
 
 public class ScaleDown : MonoBehaviour
