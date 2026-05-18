@@ -1,4 +1,4 @@
-//①一定時間後に消える床//
+//一定時間後に消える床//
 using UnityEngine;
 
 public class FloorDisappear : MonoBehaviour
